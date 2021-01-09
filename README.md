@@ -1,4 +1,4 @@
-# vcode
+# verilog code for logistic map
 verilog code for logistic map
 The Logistic map equation is x(n+1) = r * x(n) * (1-x(n)).
 The above equation is iterated multiple number of times to generate logistic map key values.
